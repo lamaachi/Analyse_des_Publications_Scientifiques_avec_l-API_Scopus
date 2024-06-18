@@ -1,0 +1,88 @@
+2024-06-17 14:59:53,256 - elsapy.elsclient - INFO - Module loaded.
+2024-06-17 14:59:54,410 - elsapy.utils - INFO - Module loaded.
+2024-06-17 14:59:54,415 - elsapy.elssearch - INFO - Module loaded.
+2024-06-17 14:59:54,420 - elsapy.elsentity - INFO - Module loaded.
+2024-06-17 14:59:54,420 - elsapy.elsprofile - INFO - Module loaded.
+2024-06-17 14:59:54,420 - elsapy.elsdoc - INFO - Module loaded.
+2024-06-17 14:59:57,685 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22Covid-19%22%29
+2024-06-17 15:00:27,116 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:11,245 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:13,039 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:13,990 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:15,926 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:16,915 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:18,585 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:19,561 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:21,341 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:22,337 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:24,138 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:25,115 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:27,025 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:28,012 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:29,645 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:30,641 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:32,085 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:33,077 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:34,815 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:35,811 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:37,626 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:38,600 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:40,355 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:01:41,336 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 15:01:43,700 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 15:02:37,035 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22Covid-19%22%29
+2024-06-17 15:02:38,936 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:20,412 - elsapy.elsclient - INFO - Module loaded.
+2024-06-17 17:50:21,332 - elsapy.utils - INFO - Module loaded.
+2024-06-17 17:50:21,332 - elsapy.elssearch - INFO - Module loaded.
+2024-06-17 17:50:21,332 - elsapy.elsentity - INFO - Module loaded.
+2024-06-17 17:50:21,332 - elsapy.elsprofile - INFO - Module loaded.
+2024-06-17 17:50:21,332 - elsapy.elsdoc - INFO - Module loaded.
+2024-06-17 17:50:25,891 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22Covid-19%22%29
+2024-06-17 17:50:27,534 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:35,381 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29
+2024-06-17 17:50:37,136 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:38,113 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22machine+learning%22%29
+2024-06-17 17:50:39,922 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:40,918 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22data+science%22%29
+2024-06-17 17:50:42,485 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:43,460 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22natural+language+processing%22%29
+2024-06-17 17:50:44,965 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:45,975 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22computer+vision%22%29
+2024-06-17 17:50:47,323 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:48,295 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22big+data%22%29
+2024-06-17 17:50:49,815 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:50,813 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22cloud+computing%22%29
+2024-06-17 17:50:52,340 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:53,328 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22cybersecurity%22%29
+2024-06-17 17:50:55,307 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:56,275 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22blockchain%22%29
+2024-06-17 17:50:57,753 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:50:58,740 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22internet+of+things%22%29
+2024-06-17 17:51:00,646 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:01,658 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22quantum+computing%22%29
+2024-06-17 17:51:03,532 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:04,506 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22robotics%22%29
+2024-06-17 17:51:06,186 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:07,171 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22bioinformatics%22%29
+2024-06-17 17:51:09,035 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:10,029 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22genomics%22%29
+2024-06-17 17:51:11,647 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:12,628 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22renewable+energy%22%29
+2024-06-17 17:51:14,210 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:15,203 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22nanotechnology%22%29
+2024-06-17 17:51:17,027 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:18,013 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22biotechnology%22%29
+2024-06-17 17:51:19,539 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:20,520 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22autonomous+vehicles%22%29
+2024-06-17 17:51:22,201 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:23,180 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22augmented+reality%22%29
+2024-06-17 17:51:24,650 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:51:25,644 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22virtual+reality%22%29
+2024-06-17 17:51:28,163 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:54:18,444 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22artificial+intelligence%22%29+AND+PUBYEAR+AFT+2023
+2024-06-17 17:54:19,842 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:54:20,839 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22machine+learning%22%29+AND+PUBYEAR+AFT+2023
+2024-06-17 17:54:22,571 - elsapy.utils - INFO - Converting prism:coverDate
+2024-06-17 17:54:23,546 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22data+science%22%29+AND+PUBYEAR+AFT+2023
+2024-06-17 17:54:24,988 - elsapy.utils - INFO - Converting prism:coverDate
