@@ -31,4 +31,4 @@ This project is an interactive web application built using Streamlit, designed t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/scopus-data-eda.git
+   git clone https://github.com/your-username/scopus-data-eda.git](https://github.com/lamaachi/Analyse_des_Publications_Scientifiques_avec_l-API_Scopus.git
